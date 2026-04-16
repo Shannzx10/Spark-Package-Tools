@@ -1,0 +1,45 @@
+Package: bash
+Version: 5.2.15
+Arch: x86_64
+Description: GNU Bourne Again Shell
+Maintainer: Shannz
+BuildDate: 2026-04-15
+Size: 688757
+Filename: x86_64/bash-5.2.15.spk
+
+Package: btm
+Version: 0.12.3
+Arch: x86_64
+Description: Graphical process/system monitor for the terminal (htop alternative)
+Maintainer: Shannz
+BuildDate: 2026-04-15
+Size: 2049505
+Filename: x86_64/btm-0.12.3.spk
+
+Package: curl
+Version: 8.19.0
+Arch: x86_64
+Description: HTTP/HTTPS client (static binary, no dependencies)
+Maintainer: Shannz
+BuildDate: 2026-04-14
+Size: 4334719
+Filename: x86_64/curl-8.19.0.spk
+
+Package: jq
+Version: 1.8.1
+Arch: x86_64
+Description: Lightweight command-line JSON processor
+Maintainer: Shannz
+BuildDate: 2026-04-14
+Size: 994536
+Filename: x86_64/jq-1.8.1.spk
+
+Package: nano
+Version: 2.0.15
+Arch: x86_64
+Description: Simple and intuitive terminal text editor
+Maintainer: Shannz
+BuildDate: 2026-04-15
+Size: 5069013
+Filename: x86_64/nano-2.0.15.spk
+
