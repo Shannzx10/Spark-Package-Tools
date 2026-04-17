@@ -61,3 +61,12 @@ BuildDate: 2026-04-17
 Size: 460478
 Filename: x86_64/file-5.45.spk
 
+Package: tmux
+Version: 3.4
+Arch: x86_64
+Description: Terminal multiplexer - manage multiple terminal sessions
+Maintainer: Shannz
+BuildDate: 2026-04-17
+Size: 349587
+Filename: x86_64/tmux-3.4.spk
+

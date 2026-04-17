@@ -30,6 +30,7 @@ spt info <nama>         # Lihat detail package
 | `btm` | 0.12.3 | x86_64, aarch64 | System monitor (alternatif htop) |
 | `tree` | 2.1.1 | x86_64, aarch64 | Directory tree viewer dengan warna |
 | `file` | 5.45 | x86_64, aarch64 | File type identification tool |
+| `tmux` | 3.4 | x86_64, aarch64 | Terminal multiplexer |
 
 ---
 

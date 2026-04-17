@@ -61,3 +61,12 @@ BuildDate: 2026-04-17
 Size: 518265
 Filename: aarch64/file-5.45.spk
 
+Package: tmux
+Version: 3.4
+Arch: aarch64
+Description: Terminal multiplexer - manage multiple terminal sessions
+Maintainer: Shannz
+BuildDate: 2026-04-17
+Size: 374007
+Filename: aarch64/tmux-3.4.spk
+
