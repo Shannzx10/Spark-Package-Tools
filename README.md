@@ -29,6 +29,7 @@ spt info <nama>         # Lihat detail package
 | `jq` | 1.8.1 | x86_64, aarch64 | JSON processor |
 | `btm` | 0.12.3 | x86_64, aarch64 | System monitor (alternatif htop) |
 | `tree` | 2.1.1 | x86_64, aarch64 | Directory tree viewer dengan warna |
+| `file` | 5.45 | x86_64, aarch64 | File type identification tool |
 
 ---
 
