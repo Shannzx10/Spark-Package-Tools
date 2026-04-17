@@ -43,3 +43,12 @@ BuildDate: 2026-04-15
 Size: 4658493
 Filename: aarch64/nano-2.0.15.spk
 
+Package: tree
+Version: 2.1.1
+Arch: aarch64
+Description: Displays an indented directory tree, in color
+Maintainer: Shannz
+BuildDate: 2026-04-17
+Size: 31309
+Filename: aarch64/tree-2.1.1.spk
+

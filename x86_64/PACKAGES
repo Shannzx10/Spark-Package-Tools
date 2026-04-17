@@ -43,3 +43,12 @@ BuildDate: 2026-04-15
 Size: 5069013
 Filename: x86_64/nano-2.0.15.spk
 
+Package: tree
+Version: 2.1.1
+Arch: x86_64
+Description: Displays an indented directory tree, in color
+Maintainer: Shannz
+BuildDate: 2026-04-17
+Size: 512898
+Filename: x86_64/tree-2.1.1.spk
+

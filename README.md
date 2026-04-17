@@ -28,6 +28,7 @@ spt info <nama>         # Lihat detail package
 | `curl` | 8.19.0 | x86_64, aarch64 | HTTP/HTTPS client (static) |
 | `jq` | 1.8.1 | x86_64, aarch64 | JSON processor |
 | `btm` | 0.12.3 | x86_64, aarch64 | System monitor (alternatif htop) |
+| `tree` | 2.1.1 | x86_64, aarch64 | Directory tree viewer dengan warna |
 
 ---
 
