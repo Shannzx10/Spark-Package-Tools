@@ -58,6 +58,6 @@ Arch: x86_64
 Description: File type determination tool using magic numbers
 Maintainer: Shannz
 BuildDate: 2026-04-17
-Size: 453376
+Size: 460478
 Filename: x86_64/file-5.45.spk
 
