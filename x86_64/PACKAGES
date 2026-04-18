@@ -67,6 +67,6 @@ Arch: x86_64
 Description: Terminal multiplexer - manage multiple terminal sessions
 Maintainer: Shannz
 BuildDate: 2026-04-17
-Size: 349587
+Size: 639292
 Filename: x86_64/tmux-3.4.spk
 
